@@ -17,8 +17,11 @@ https://www.figma.com/file/m7ghSdVm6PbZfT14z0vBLP/Untitled?type=design&node-id=0
   |  3D Визуализация       |  Three.js                         |  -           | 
   |  AR Визуализация       |  model-viewer.js, ar.js           |  -           | 
 
-> [!TIP]
-> Nothing
+  #### Примечания
+  > Текст
+
+  > [!TIP]
+  > Nothing
 
 ### Сбербанк эквайринг для обработки платежей
   
@@ -27,5 +30,8 @@ https://www.figma.com/file/m7ghSdVm6PbZfT14z0vBLP/Untitled?type=design&node-id=0
   | Платёжная система      |  -                                |  [Habr](https://habr.com/ru/articles/723078/) | 
   | API Сбера              |  -                                |  [securecardpayment](https://securecardpayment.ru/wiki/doku.php/integration:api:start) | 
 
-> [!IMPORTANT]
-> Nothing
+  #### Примечания
+  > Текст
+
+  > [!IMPORTANT]
+  > Nothing
