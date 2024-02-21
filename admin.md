@@ -15,7 +15,7 @@ https://www.figma.com/file/m7ghSdVm6PbZfT14z0vBLP/Untitled?type=design&node-id=0
   |  Интерфейс             |  React.js                         |  -           |                                      
   |  База данных           |  MongoDB                          |  -           | 
   |  3D Визуализация       |  Three.js                         |  -           | 
-  |  AR Визуализация       |  model_viewer, ar.js              |  -           | 
+  |  AR Визуализация       |  model-viewer.js, ar.js           |  -           | 
 
 > [!TIP]
 > Nothing
