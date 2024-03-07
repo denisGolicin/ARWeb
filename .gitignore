@@ -1,2 +1,11 @@
 dev/node_modules
+
+# dependencies
 dev/admin/node_modules
+dev/admin/.pnp
+
+# testing
+dev/admin/coverage
+
+# production
+dev/admin/build
